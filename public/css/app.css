@@ -1,0 +1,20 @@
+html, body {
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+
+	background-color:#eee;
+
+	cursor: crosshair;
+	cursor: url("/img/target.png") 16 16, auto;
+}
+
+.cursor {
+	background-image: url("/img/cursor.png");
+	position: fixed;
+	width: 12px;
+	height: 19px;
+
+	-webkit-transition: top 0.08s, left 0.08s;
+}
