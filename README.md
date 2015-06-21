@@ -1,2 +1,2 @@
 # KillTheMouse-Game
-Multiplayer shooting game application using node, js , css,html, socket io etc
+Multiplayer shooting game application using nodejs , css,html, socket io
